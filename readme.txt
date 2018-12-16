@@ -1,3 +1,5 @@
+# this image is of  centos 7
+
 #To build the image run
 docker build -t centhttpd:v1.0 .
 
