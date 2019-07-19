@@ -1,4 +1,6 @@
-# this image is of  centos 7
+# this image is for centos 7
+
+git clone https://github.com/kmamtora/docker-httpd.git
 
 #To build the image run
 docker build -t centhttpd:v1.0 .
